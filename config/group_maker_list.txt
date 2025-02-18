@@ -1,0 +1,49 @@
+d	a	g	Comment
+-114.11665		-115.120005	Ubiquitination (K)
+-115.120005		-115.120005	Ubiquitination (K)
+-113.113295		-115.120005	Ubiquitination (K)
+-91.009185	C	-91.009185	S loss I
+-90.00583	C	-91.009185	S loss I
+-29.992806	M	-29.992806	Met->Hser or Met->Thr
+-28.989451	M	-29.992806	Met->Hser or Met->Thr
+0.984016		0.984016	deamidation
+1.987371		0.984016	deamidation
+2.990726		0.984016	deamidation
+3.994915		3.994915	kynurenine
+4.99827		3.994915	kynurenine
+14.01565		14.01565	methyl
+15.019005		14.01565	methyl
+15.994915		15.994915	oxidation
+16.02236		14.01565	methyl
+16.99827		15.994915	oxidation
+18.001625		15.994915	oxidation
+31.989829		31.989829	dioxidation
+32.993184		31.989829	dioxidation
+47.984744		47.984744	trioxidation
+48.988099		47.984744	trioxidation
+79.966331		79.966331	phosphorylation
+80.969686		79.966331	phosphorylation
+-458.325864		NM	loss of 2 TMT; TMT10 only
+-229.162932		NM	TMT loss; TMT10 only
+-172.141468		NM	" TMT loss, +IAM en Lys; TMT10 only"
+-171.138113		NM	" TMT loss, +IAM en Lys; TMT10 only"
+-170.134758		NM	" TMT loss, +IAM en Lys; TMT10 only"
+-18.010565		NM	H2O loss
+-17.026549		NM	NH3 loss
+0		NM	DM=0
+1.003355		NM	DM=0
+2.00671		NM	DM=0
+3.010065		NM	DM=0
+17.026549		NM	NH3 adduct
+18.010565		NM	H2O adduct
+21.981943		NM	Na adduct
+57.021464		NM	IAM
+58.024824		NM	IAM
+229.162932		NM	extra TMT; TMT10 only
+230.166292		NM	extra TMT; TMT10 only
+231.169652		NM	extra TMT; TMT10 only
+286.184396		NM	extra TMT + IAM; TMT10 only
+287.187751		NM	extra TMT + IAM; TMT10 only
+288.191115		NM	extra TMT + IAM; TMT10 only
+458.325864		NM	2xTMT; TMT10 only
+459.329224		NM	2xTMT; TMT10 only

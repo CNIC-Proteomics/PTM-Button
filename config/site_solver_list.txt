@@ -1,0 +1,11 @@
+DM	Residue	Comments
+-114.11665	K	Ubiquitination
+-115.120005	K	Ubiquitination
+-113.113295	K	Ubiquitination
+80.969686	" S,T,Y"	phosphorylation
+79.966331	"S,T,Y"	phosphorylation
+4.99827	W	kynurenine
+3.994915	W	kynurenine
+2.990726	"N,Q, C"	deamidation
+1.987371	"N,Q, C"	deamidation
+0.984016	"N,Q, C"	deamidation
